@@ -14,5 +14,9 @@ def my_beautiful_add_function_from_00_core(a, b):
 def my_beautiful_add_function_2_from_00_core(a, b):
     return a/b
 
-def my_beautiful_add_function_3_from_00_core(a, b):
-    return a/b
+
+
+
+# Cell
+def my_beautiful_add_function_3_from_00_core(c, d):
+    return (c/d) + 1
